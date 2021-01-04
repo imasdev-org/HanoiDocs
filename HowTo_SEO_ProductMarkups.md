@@ -1,3 +1,6 @@
+# Que es Product-Markup?# 
+https://developers.google.com/search/docs/data-types/product
+
 # Configuracion #
 En la configuracion de Mundo | SEO  se puede activar la info de markup de productos y configurar la info del Vendedor
 
