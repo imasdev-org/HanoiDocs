@@ -1,4 +1,4 @@
-# Que es Product-Markup?# 
+# Markup# 
 https://developers.google.com/search/docs/data-types/product
 
 # Configuracion #
