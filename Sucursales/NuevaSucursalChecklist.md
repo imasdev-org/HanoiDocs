@@ -4,6 +4,7 @@
 - El Centro de Armado debe existir Previamente
 - Debemos conocer el Identificador de la sucursal en el ERP (StoreKey)
 - El Tipo de Entrega tiene que existir previamente. Si es necesario crearlo ver [Crear Tipo de Entrega](NuevoTipoDeEntrega.md)
+- La(s) localidades que la sucursal cubre tienen que existir previamente en caso que la sucursal sea de tipo entrega y no retiro. En el caso de las sucursales de retiro, se crea la localidad automaticamente.
 
 ## Checklist ##
 - [ ] Crear Sucursal
