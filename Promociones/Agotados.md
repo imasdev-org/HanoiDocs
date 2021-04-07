@@ -22,5 +22,8 @@ Cuando se desagota un producto desde migracion porque se termino la promocion, s
 En el sitio el producto pasa a no ser comprable y muestra una etiqueta 'En Sucursales'. 
 En las busquedas el producto pierde relevancia quedando para el final junto con los productos sin stock.
 
+En el backend - en la pagina del producto, pestanha INVENTARIO - vamos a ver que en las sucursales/mundos asociados a la promo la visibilidad se fija como No-Stock y la explicacion es 'Producto Agotado'. Por otro lado veremos una accion adicional para eliminar el agotado y la descripcion de la promocion que creo la marca de agotado alli.
+
+
 Si bien el cambio a 'agotado' se hace en tiempo real en la compra que agota el producto, en las busquedas el producto no se vera como agotado hasta que corra el proceso de migracion. Pero si veremos el producto agotado en la pagina de producto o el carrito de compras.
 
