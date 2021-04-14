@@ -10,13 +10,13 @@ Los atributos importantes son:
 - *Datos*: Los datos de producto indexados son primera-palabra-del-nombre, nombre, codigo-de-producto, descripcion, primeras 3 categorias del arbol (por ejemplo Bebidas/Bebidas con Alcohol/Espumantes), Marca, categorias de tipo lista (visibles) 
  
 ## Busquedas x Texto
-###Usuario Anonimo 
+### Usuario Anonimo
 - Que haya stock
 - Hit en 1a palabra ponderado por frecuencia de la 1a palabra
 - Disponibilidad (cosa que sin stock y alternativos queden al final)
 - Ventas totales ponderadas por Impulso
 
-###Usuario Logueado 
+### Usuario Logueado
 - Que haya stock
 - Que el cliente haya comprado
 - Hit en 1a palabra ponderado por frecuencia de la 1a palabra
