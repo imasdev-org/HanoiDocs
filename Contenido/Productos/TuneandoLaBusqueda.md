@@ -35,3 +35,8 @@ Los atributos importantes son:
 - Ventas totales ponderadas por Impulso
 - Disponibilidad (cosa que sin stock y alternativos queden al final)
 
+## Listados
+Esto corresponde a categorias de tipo lista/ocasion/etc (no de arbol) que se usan para carruseles y promociones.
+- El orden viene dado por lo que se define en el backend (mas alla de stock u otras consideraciones).
+
+
