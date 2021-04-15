@@ -9,6 +9,9 @@ Los atributos importantes son:
 - *Impulso*: El impulso funciona como parte del ponderador que permite incrementar o bajar la relevancia. Es un multiplicador por tanto deberia ir de 0 a n.  En caso de asignarle 0 el ponderador de ventas se elimina.
 - *Datos*: Los datos de producto indexados son primera-palabra-del-nombre, nombre, codigo-de-producto, descripcion, primeras 3 categorias del arbol (por ejemplo Bebidas/Bebidas con Alcohol/Espumantes), Marca, categorias de tipo lista (visibles) 
  
+## Sinonimos
+Los sinonimos se definen a nivel general y sirven para reemplazar la palabra que se esta buscando por otra. Por ejemplo si se define un sinonimo Frankfurter --> Pancho, lo que decimos es que cuando alguien busca la palabra 'Frankfurter' en realidad queremos que se busque por 'Pancho'. De esta forma, todos los panchos deberian tener la palabra 'Pancho' en el nombre y no 'Frankfurter'. Esto puede ser una alternativa mas sencilla que agregar el keyword 'Frankfurter' en todos los panchos. 
+ 
 ## Busquedas x Texto
 ### Usuario Anonimo
 - Que haya stock
