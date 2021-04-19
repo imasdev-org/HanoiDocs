@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
-* [Documentación](readme.md)
-* [Catalogo](Catalogo/CategoriaEquivalente.md)
+* [Home](/)
+<!--* [Catalogo](Catalogo/CategoriaEquivalente.md)
 * [Contenido](Contenido/Acciones.md)
 * [Contenido - TuneandoLaBusqueda](Contenido/Productos/TuneandoLaBusqueda.md)
 * [Contenido - ProductMarkup SEO](Contenido/HowTo_SEO_ProductMarkups.md)
@@ -11,3 +11,4 @@
 * [Promociones - Coleccionables](Comercial/Coleccionables.md)
 * [Sucursales](Sucursales/NuevaSucursalChecklist.md)
 * [Workflow](Workflow/Estados%20de%20Pedidos.md)
+ -->
