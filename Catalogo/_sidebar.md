@@ -1,3 +1,3 @@
 <!-- docs/_sidebar.md -->
 
-* [Productos Equivalentes](CategoriaEquivalente.md)
+* [Equivalentes](CategoriaEquivalente.md)
