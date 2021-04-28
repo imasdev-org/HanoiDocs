@@ -1,3 +1,3 @@
 <!-- docs/_sidebar.md -->
 
-* [Cupones](Cupones.md)
+* [TiposDeCupones](Cupones/TiposDeCupones.md)
